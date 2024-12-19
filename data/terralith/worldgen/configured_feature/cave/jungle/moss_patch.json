@@ -9,10 +9,8 @@
         "vegetation_chance": 0.5,
         "xz_radius": {
             "type": "uniform",
-            "value": {
-                "min_inclusive": 1,
-                "max_inclusive": 3
-            }
+            "min_inclusive": 1,
+            "max_inclusive": 3
         },
         "replaceable": "#terralith:underground_jungle_replaceable",
         "ground_state": {

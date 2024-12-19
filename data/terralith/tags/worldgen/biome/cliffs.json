@@ -1,5 +1,5 @@
 {
-  "reset": false,
+  "replace": false,
   "values": [
     "terralith:basalt_cliffs",
     "terralith:frozen_cliffs",

@@ -8,16 +8,7 @@
                 "predicates": [
                     {
                         "type": "minecraft:matching_blocks",
-                        "blocks": [
-                            "minecraft:air",
-                            "minecraft:cave_air",
-                            "minecraft:void_air"
-                        ],
-                        "offset": [
-                            0,
-                            0,
-                            0
-                        ]
+                        "blocks": "#minecraft:air"
                     },
                     {
                         "type": "minecraft:matching_blocks",

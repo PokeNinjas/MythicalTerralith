@@ -1,7 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "terralith:wintry_forest",
-    "terralith:snowy_badlands"
+    "#terralith:reference/temperature/frozen_with_structures"
   ]
 }

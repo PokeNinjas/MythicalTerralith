@@ -1,7 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "terralith:tropical_jungle",
-    "terralith:rocky_jungle"
+    "#terralith:reference/jungle"
   ]
 }

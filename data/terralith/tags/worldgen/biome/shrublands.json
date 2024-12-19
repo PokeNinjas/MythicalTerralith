@@ -1,5 +1,5 @@
 {
-  "reset": false,
+  "replace": false,
   "values": [
     "terralith:shrubland",
     "terralith:hot_shrubland",

@@ -101,12 +101,6 @@
                 "maxCount": 2,
                 "minCount": 2,
                 "weight": 8
-            },
-            {
-                "type": "minecraft:wolf",
-                "maxCount": 2,
-                "minCount": 2,
-                "weight": 8
             }
         ],
         "misc": [],
@@ -147,6 +141,6 @@
         "water_creature": []
     },
     "starts": [],
-    "surface_builder": "minecraft:grass",
+    "surface_builder": "minecraft:short_grass",
     "temperature": 0.0
 }

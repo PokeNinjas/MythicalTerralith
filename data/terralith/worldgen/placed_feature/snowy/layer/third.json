@@ -26,11 +26,6 @@
             "blocks": [
               "minecraft:air",
               "snow"
-            ],
-            "offset": [
-              0,
-              0,
-              0
             ]
           },
           {

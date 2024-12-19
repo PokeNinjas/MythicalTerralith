@@ -56,11 +56,6 @@
             "blocks": [
               "minecraft:air",
               "minecraft:water"
-            ],
-            "offset": [
-              0,
-              0,
-              0
             ]
           }
         }

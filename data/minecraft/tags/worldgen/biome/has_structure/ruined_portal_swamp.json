@@ -1,7 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "terralith:orchid_swamp",
-    "terralith:ice_marsh"
+    "#terralith:reference/swamp"
   ]
 }

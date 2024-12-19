@@ -18,13 +18,13 @@
         "particle": {
             "options": {
                 "type": "minecraft:dust_color_transition",
-                "fromColor": [
+                "from_color": [
                     0.5,
                     1,
                     1
                 ],
                 "scale": 1,
-                "toColor": [
+                "to_color": [
                     0,
                     0,
                     1
@@ -87,7 +87,7 @@
         [],
         [],
         [
-            "terralith:cave/ice/no_lava",
+            "terralith:cave/frostfire/lava_remover",
             "terralith:cave/frostfire/replacer",
             "minecraft:glow_lichen",
             "minecraft:patch_tall_grass_2",

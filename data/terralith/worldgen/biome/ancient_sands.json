@@ -24,7 +24,7 @@
         "particle": {
             "options": {
                 "type": "minecraft:falling_dust",
-                "value": {
+                "block_state": {
                     "Name": "minecraft:sand",
                     "Properties": {}
                 }

@@ -5103,10 +5103,7 @@
                                                         {
                                                             "type": "minecraft:block",
                                                             "result_state": {
-                                                                "Name": "minecraft:mud",
-                                                                "Properties": {
-                                                                    "snowy": "false"
-                                                                }
+                                                                "Name": "minecraft:mud"
                                                             }
                                                         }
                                                     ]
@@ -5764,6 +5761,7 @@
                                                                 "type": "minecraft:biome",
                                                                 "biome_is": [
                                                                     "minecraft:warm_ocean",
+                                                                    "terralith:deep_warm_ocean",
                                                                     "minecraft:desert",
                                                                     "terralith:desert_canyon",
                                                                     "terralith:desert_oasis",
@@ -6082,8 +6080,7 @@
                                                         "type": "minecraft:biome",
                                                         "biome_is": [
                                                             "minecraft:ice_spikes",
-                                                            "terralith:snowy_cherry_grove",
-                                                            "terralith:icy_spires"
+                                                            "terralith:snowy_cherry_grove"
                                                         ]
                                                     },
                                                     "then_run": {
@@ -6519,6 +6516,7 @@
                                                         "type": "minecraft:biome",
                                                         "biome_is": [
                                                             "minecraft:warm_ocean",
+                                                            "terralith:deep_warm_ocean",
                                                             "minecraft:desert",
                                                             "terralith:lush_desert",
                                                             "terralith:desert_canyon",
@@ -7200,6 +7198,7 @@
                                 "type": "minecraft:biome",
                                 "biome_is": [
                                     "minecraft:warm_ocean",
+                                    "terralith:deep_warm_ocean",
                                     "minecraft:desert",
                                     "terralith:lush_desert",
                                     "terralith:desert_canyon",
@@ -7287,6 +7286,7 @@
                                             "type": "minecraft:biome",
                                             "biome_is": [
                                                 "minecraft:warm_ocean",
+                                                "terralith:deep_warm_ocean",
                                                 "minecraft:lukewarm_ocean",
                                                 "minecraft:deep_lukewarm_ocean",
                                                 "terralith:skylands_summer"

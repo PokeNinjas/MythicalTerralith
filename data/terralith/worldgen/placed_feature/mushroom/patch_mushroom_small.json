@@ -102,10 +102,7 @@
                                         0,
                                         0
                                     ],
-                                    "blocks": [
-                                        "minecraft:air",
-                                        "minecraft:cave_air"
-                                    ]
+                                    "blocks": "#minecraft:air"
                                 },
                                 {
                                     "type": "minecraft:any_of",
@@ -141,10 +138,8 @@
             "type": "minecraft:count",
             "count": {
                 "type": "minecraft:uniform",
-                "value": {
-                    "min_inclusive": 1,
-                    "max_inclusive": 3
-                }
+                "min_inclusive": 1,
+                "max_inclusive": 3
             }
         },
         {

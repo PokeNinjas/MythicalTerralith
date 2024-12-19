@@ -39,11 +39,6 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air"
-            ],
-            "offset": [
-              0,
-              0,
-              0
             ]
           }
         ]

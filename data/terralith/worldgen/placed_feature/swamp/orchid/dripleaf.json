@@ -23,11 +23,6 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:water"
-            ],
-            "offset": [
-              0,
-              0,
-              0
             ]
           },
           {

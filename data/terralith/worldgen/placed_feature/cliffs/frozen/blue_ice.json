@@ -38,11 +38,6 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:stone"
-            ],
-            "offset": [
-              0,
-              0,
-              0
             ]
           },
           {

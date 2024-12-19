@@ -91,15 +91,7 @@
           },
           {
             "type": "minecraft:matching_blocks",
-            "blocks": [
-              "minecraft:air",
-              "minecraft:cave_air"
-            ],
-            "offset": [
-              0,
-              0,
-              0
-            ]
+            "blocks": "#minecraft:air"
           }
         ]
       }

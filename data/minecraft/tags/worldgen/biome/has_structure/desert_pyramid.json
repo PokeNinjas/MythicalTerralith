@@ -1,8 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "terralith:desert_oasis",
-    "terralith:sandstone_valley",
-    "terralith:desert_spires"
+    "#terralith:reference/desert_with_structures"
   ]
 }
